@@ -1,2 +1,2 @@
 # kape-collection-script
-urreptitious KAPE live collection script for Windows hosts.
+Surreptitious KAPE live collection script for Windows hosts.
